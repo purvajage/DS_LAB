@@ -23,7 +23,7 @@ This practical focuses on cleaning and transforming real-world datasets to ensur
   - Label Encoding of binary/categorical features
 
 ### 3. `employee_promotion.ipynb`
-- **Dataset**: Employee Promotion Dataset(https://drive.google.com/file/d/12dV5KRm66ktLGP2gp-M05jdg4dVADAdJ/view)
+- **Dataset**: [Employee Promotion Dataset](https://drive.google.com/file/d/12dV5KRm66ktLGP2gp-M05jdg4dVADAdJ/view)
 - **Operations Performed**:
   - Handling missing values in education and previous_year_rating
   - Label Encoding of  categorical variables
