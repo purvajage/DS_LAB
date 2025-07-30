@@ -57,7 +57,7 @@ This practical focuses on cleaning and transforming real-world datasets to ensur
 ---
 
 ## 🔗 References
-- [Titanic Dataset (Kaggle)](https://www.kaggle.com/competitions/titanic)
+- [Titanic Dataset (Kaggle)](https://drive.google.com/file/d/12dV5KRm66ktLGP2gp-M05jdg4dVADAdJ/view)
 - [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 
