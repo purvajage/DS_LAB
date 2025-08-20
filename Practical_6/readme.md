@@ -74,10 +74,6 @@ Each Jupyter Notebook applies **Naive Bayes Classification** on a dataset:
 
 ---
 
-
-
----
-
 ## 🛠️ Requirements
 - Python 3.x  
 - Jupyter Notebook  
