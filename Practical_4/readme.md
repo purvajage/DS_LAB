@@ -96,6 +96,6 @@ jupyter notebook CompanyData.ipynb
 
 - Ensure required Python packages are installed (`pip install -r requirements.txt`)
 - For Titanic API, send POST requests with passenger details for predictions.
-- Frontend implementation is optional; backend API works standalone.
+
 
 ---
