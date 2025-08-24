@@ -53,7 +53,6 @@ To implement and evaluate Linear Regression for predictive modeling and to analy
 - Learn data preprocessing, visualization, and model training steps.
 - Evaluate models using metrics like R² Score and Mean Squared Error.
 - Make predictions and interpret regression coefficients.
-
 ---
 
 ## 📁 Repository Structure
