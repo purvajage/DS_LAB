@@ -44,7 +44,6 @@ To implement and evaluate Linear Regression for predictive modeling and to analy
   - `matplotlib`
   - `seaborn`
   - `sklearn` (Scikit-learn)
-
 ---
 
 ## 🧠 Learning Outcomes
