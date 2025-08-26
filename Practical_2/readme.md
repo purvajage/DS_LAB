@@ -33,7 +33,6 @@ To implement and evaluate Linear Regression for predictive modeling and to analy
    - [📎 Source (UCI)](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 ---
-
 ## 🔧 Technologies Used
 
 - Python 3.x
